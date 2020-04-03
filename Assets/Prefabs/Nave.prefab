@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8636452948300888029}
   - component: {fileID: 8636452948300888028}
   - component: {fileID: 8636452948300888019}
+  - component: {fileID: -6156189737357076221}
   m_Layer: 0
   m_Name: Nave
   m_TagString: Untagged
@@ -119,3 +120,17 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.495
+--- !u!114 &-6156189737357076221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8636452948300888018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d9007de84198de4e8650949734b337a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  torque: 5
+  rb: {fileID: 0}

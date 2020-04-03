@@ -6276,15 +6276,20 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Nave
       objectReference: {fileID: 0}
+    - target: {fileID: 8636452948300888028, guid: cbab5f9b8ae0bbd42af2e46b8ae14ee2,
+        type: 3}
+      propertyPath: m_GravityScale
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8636452948300888030, guid: cbab5f9b8ae0bbd42af2e46b8ae14ee2,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.57
+      value: -2.02
       objectReference: {fileID: 0}
     - target: {fileID: 8636452948300888030, guid: cbab5f9b8ae0bbd42af2e46b8ae14ee2,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.8
+      value: 3.01
       objectReference: {fileID: 0}
     - target: {fileID: 8636452948300888030, guid: cbab5f9b8ae0bbd42af2e46b8ae14ee2,
         type: 3}
