@@ -18,15 +18,6 @@ public class Player1 : MonoBehaviour
     void Update()
     {
         
-        ///     if (Input.GetKey(KeyCode.UpArrow))
-        /// {
-        /// print("up arrow key is held down");
-        /// }
-        ///     if (Input.GetKey(KeyCode.DownArrow))
-        /// {
-        ///    print("down arrow key is held down");
-        /// }
-       
 
         float movimientoHorizontal = Input.GetAxis("Horizontal");
         float movimientoVertical = Input.GetAxis("Vertical");
